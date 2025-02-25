@@ -1,0 +1,12 @@
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+schedule
+fastapi
+uvicorn
+aiohttp
+asyncio
+schedule
+openai
+twilio
+python-dotenv
