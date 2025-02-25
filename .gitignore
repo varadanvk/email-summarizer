@@ -11,5 +11,6 @@ send_sms.py
 .venv/
 venv/
 __pycache__/
+.DS_Store
 .vscode/
 email_summary.log
